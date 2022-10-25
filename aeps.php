@@ -84,7 +84,7 @@
         </div>
     </div>
     <div class="row">
-        <div class="col-sm-12 col-lg-7">
+        <div class="col-sm-12 col-lg-6">
             <form>
                 <div class="card p-3">
 
@@ -177,7 +177,7 @@
                 </div>
             </form>
         </div>
-        <div class="col-sm-12 col-lg-5">
+        <div class="col-sm-12 col-lg-6">
             <div class="card">
                 <div class="card-header d-flex justify-content-between">
                     <div class="header-title">

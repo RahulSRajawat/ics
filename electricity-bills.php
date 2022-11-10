@@ -141,7 +141,9 @@
                                 <label class="form-label" for="pwd">Consumer Number:</label>
                                 <input type="text" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" class="form-control" id="pwd">
                             </div>
-                            <button type="submit" class="btn btn-primary">Proceed</button>
+                            <button type="submit" class="btn btn-outline-primary rounded-pill">Submit</button>
+                            
+
                         </form>
                     </div>
                 </div>

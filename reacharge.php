@@ -122,8 +122,8 @@
                                     </label>
                                 </div>
                             </div>
-                            <button type="submit" class="btn btn-primary rounded-pill">Submit</button>
-                            <button type="submit" class="btn btn-danger rounded-pill">cancel</button>
+                            <button type="submit" class="btn btn-outline-primary rounded-pill">Submit</button>
+                        <button type="submit" class="btn btn-outline-secondary rounded-pill">cancel</button>
                         </form>
                     </div>
                 </div>
@@ -167,7 +167,7 @@
                                         <td class="re_td_data">NA</td>
                                         <td class="re_td_data">NA</td>
                                         <td class="re_td_data">
-                                            <button class="btn btn-outline-info" style="padding: 3px 13px;">Rs. 10</button>
+                                            <button class="btn btn-outline-info rounded-pill" style="padding: 3px 13px;">Rs. 10</button>
                                         </td>
                                         <td class="re_td_data">Unlimited voice calls+U</td>
                                     </tr>

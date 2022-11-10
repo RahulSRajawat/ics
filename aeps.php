@@ -79,7 +79,7 @@
     <div class="row">
         <div class="card aeps_card">
             <div class="card-header aeps_card_heading">
-                AEPS - SaralPe Private limited
+                AEPS - PlusPay Private limited
             </div>
         </div>
     </div>

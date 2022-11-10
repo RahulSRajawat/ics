@@ -66,8 +66,8 @@
                                 </label>
                             </div>
                         </div>
-                        <button type="submit" class="btn btn-primary">Submit</button>
-                        <button type="submit" class="btn btn-danger">cancel</button>
+                        <button type="submit" class="btn btn-outline-primary rounded-pill">Submit</button>
+                        <button type="submit" class="btn btn-outline-secondary rounded-pill">cancel</button>
                     </form> 
                 </div>
             </div>

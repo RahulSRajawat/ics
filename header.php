@@ -776,6 +776,8 @@
                   <span class="navbar-toggler-bar bar3"></span>
                 </span>
             </button>
+            
+            <a href="Load_Money_UPI" class="btn btn-outline-primary rounded-pill btn-sm btn-float-left">Load Money (UPI)</a> 
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <ul class="mb-2 navbar-nav ms-auto align-items-center navbar-list mb-lg-0">
              

@@ -778,7 +778,7 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <ul class="mb-2 navbar-nav ms-auto align-items-center navbar-list mb-lg-0">
-              <a href="Load_Money_UPI" class="btn btn-outline-primary rounded-pill btn-sm btn-float-left">Load Money (UPI)</a> 
+             
               <button type="button" class="btn btn-outline-primary rounded-pill  btn-sm"><h5 class="counter" style="visibility: visible;">₹ 5600</h5></button>           
                  <!--   <li class="nav-item dropdown">
                   <a href="#"  class="nav-link" id="notification-drop" data-bs-toggle="dropdown" >

@@ -149,7 +149,7 @@
                     <div class="card-header ">
                         <div class="d-flex header-title justify-content-between">
                             <h5 class="card-title">BANK DETAILS</h5>
-                            <button class="btn btn-danger btn-sm" data-bs-toggle="modal" data-bs-target="#detail_modal">View QR Code</button>
+                            <button class="btn btn-outline-primary rounded-pill btn-sm" data-bs-toggle="modal" data-bs-target="#detail_modal">View My QR Code</button>
                         </div>
                     </div>
                     <div class="card-body">

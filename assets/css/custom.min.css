@@ -573,7 +573,7 @@ td.re_td_data{
     cursor: pointer;
   }
   .bussw .bussw_inputField {
-    font-size: 20px;
+    font-size: 24px;
     border: 0;
     outline: 0;
     background: none;
@@ -751,7 +751,37 @@ td.re_td_data{
     .bussw_inputBox.selectHtlCity , .bussw_inputBox.dates{
         width: 100%;
     }
+    .btn_new_style{
+    top: 94% !important;
+    left: 33% !important;
+    }
   }
   p.code {
     font-size: 13px;
+}
+.bussw .lbl_input:hover {
+    background: #327ff21a;
+}
+.new_style{
+    font-size: 20px;
+    border-radius: 30px;
+}
+.btn_new_style{
+    padding-left: 0;
+    position: absolute;
+    top: 90%;
+    left: 40%;
+}
+.selectHtlCity .select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #000;
+    line-height: 28px;
+    font-size: 24px;
+    font-family: "Lato", sans-serif;
+    font-weight: 800;
+}
+.selectHtlCity .select2-container--default .select2-selection--single {
+    border: none !important;
+}
+.selectHtlCity .select2-container--default .select2-selection--single .select2-selection__arrow {
+    display: none;
 }
